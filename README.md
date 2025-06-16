@@ -147,7 +147,35 @@
 🐳 DevOps & Cloud
 <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" /> </a> <a href="https://docs.docker.com/compose/" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="36" height="36" alt="Docker Compose" /> </a> <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="36" height="36" alt="Kubernetes" /> </a> <a href="https://semaphoreci.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/9517918?s=200&v=4" width="36" height="36" alt="Semaphore" /> </a> <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="36" height="36" alt="GitHub Actions" /> </a> </p>
 🌐 APIs & Communication
-<p align="left"> <a href="https://restfulapi.net/" target="_blank" rel="noreferrer"><img src="https://de-bagstore.s3.us-east-1.amazonaws.com/api.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIA2JUSDJ6EN3UMNLAE%2F20250610%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250610T232153Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCcoEBvTmOrTNKKPZIm1mktfaa%2BzKpmxdzFtmgfTfBdAAIgRFy8PA5e5tCc6VnWB9UpovPzgidGKjRiFFcxwC4jRaIq4AIIyP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARADGgw3MDc5MDIyNjMxNzYiDMrf%2BBCrWWFTWTdIjCq0Aqr6P7Yq0qGN67RnxfF6rdWdXqN%2BwC89z2bnRYiJcnOz18RNO3NXt1sOiu6kgdrdQaofas5cFF53cagfK9bMGQ%2B2NIZrEippggZFo6NYSpAA56tt80LS%2F5yx%2FKLO54lj%2FVK8VDmycTBCbeP0vOVc%2FOg5f1tHXJGynGOUf830yLeu7Sd1sj1dCfwdptbROCRokF2LS9tQN6LoSZES7VgXspJ%2BHqE68OJNxAXi%2B86acGT4pfjD1LeuGhbZHAi5PGhmHZ6RacJiF25jkzolVFV31JGTW7l7aZ%2FmGc9t5e%2B9nurIZDb5a7ebobKy%2F6LueuvsZZcWyIvdOP0imFxym%2FbJ8Ce2HY1NRdAUE2Fdg%2BDEbBZuvUHn60YCi3Y9%2F0Er5A3ce1k3GqwiPaSbyyF0%2FXsmVLgQdqkDMKm3oMIGOq0CSXdYEzy0hCWc1RRfeQecNn%2FWk7pV3mie0i3xhY3KKcuDGkwox%2BnHgjucPUWrbMzpQisqCaxDHo4yUJ6staMVCRYA0HjzhqiJzjA0WXwBpQ%2BwX%2BNWlCyeGbyFnG213idGP4YyzrZzaViIRm4AFru8WCdLXG5Xeq585FasBprPQZbNsZr4a8ueM7PdQn3If%2F3f48NuIj9GQxCD%2BJLrU%2BZ8bEcmcZyoHl1TP9JyrVyaPCZSIR7M%2F%2FJETXpOleuaWFKo%2FEGPdT3%2BGwWmPT%2Fb9p8nyj2apyGjkbdCbPcHFv9JAxuRGAgl2z0Yd2pQrg3%2BueeCzhh00f3827k9JYVGVSoBgwZCdR2XSMOtgGKL%2FmOkaJgefsYwdUaCFycLTmb8z4hMz%2FboA4cUhoULG3RfVA%3D%3D&X-Amz-Signature=2b65639a4c068b82bcc9e146cd28b165be113ef085b11d3ef6b1379aea41a338&X-Amz-SignedHeaders=host&response-content-disposition=inline" width="45" height="36" alt="REST API" /></a> <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="36" height="36" alt="GraphQL" /> </a> <a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" width="36" height="36" alt="Socket.IO" /> </a> </p>
+<p align="left">
+  <!-- REST API -->
+  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
+    <img 
+      src="https://de-bagstore.s3.us-east-1.amazonaws.com/api.png" 
+      width="45" 
+      height="36" 
+      alt="REST API"
+    />
+  </a>
+  <!-- GraphQL -->
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" 
+      width="36" 
+      height="36" 
+      alt="GraphQL" 
+    />
+  </a>
+  <!-- Socket.IO -->
+  <a href="https://socket.io/" target="_blank" rel="noreferrer">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" 
+      width="36" 
+      height="36" 
+      alt="Socket.IO" 
+    />
+  </a>
+</p>
 
 ### 🌐 Socials
 
