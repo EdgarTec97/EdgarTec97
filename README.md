@@ -89,7 +89,7 @@
   </a> 
   <!-- AWS Lambda -->
   <a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer"> 
-    <img src="https://static-00.iconduck.com/assets.00/aws-lambda-icon-423x512-tfxr9wfa.png" width="36" height="36" alt="AWS Lambda" /> 
+    <img src="https://img.icons8.com/color/200/awslambda.png" width="36" height="36" alt="AWS Lambda" /> 
   </a> 
   <!-- GCP -->
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
@@ -129,7 +129,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" />
   </a> 
   <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/aws-dynamodb-icon-227x256-8rljy0a9.png" width="36" height="36" alt="DynamoDB" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" width="36" height="36" alt="DynamoDB" />
   </a>
   <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" width="36" height="36" alt="Cassandra" />
